@@ -4,4 +4,4 @@ May 2019: I took a Udemy course called "R Programming A-Z™: R For Data Science
 
 # Technologies used
 
-- R (incl. ggplot2)
+- R/Rstudio (incl. ggplot2)
